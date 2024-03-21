@@ -23,17 +23,17 @@ Thanks for checking out my github profile! I'm a student  studying computer scie
 
 ## Familiar Languages & Technologies I Use!
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Go](https://img.shields.io/badge/Go-E34F26?style=for-the-badge&logo=go&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-E34F26?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-23323330?style=for-the-badge&logo=java&logoColor=white)
 <br>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/react-%23F05033.svg?style=for-the-badge&logo=react&logoColor=white)
-![Git](https://img.shields.io/badge/visualstudiocode-%23F05033.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/visualstudiocode-%23563D7C.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 ---
