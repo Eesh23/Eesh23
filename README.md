@@ -32,6 +32,9 @@ Thanks for checking out my github profile! I'm a student  studying computer scie
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/react-%23F05033.svg?style=for-the-badge&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/visualstudiocode-%23F05033.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ---
 
