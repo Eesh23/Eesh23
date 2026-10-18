@@ -39,6 +39,6 @@ Thanks for checking out my github profile! I'm a student  studying computer scie
 ---
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eesh23&show_icons=true&theme=transparent">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eesh23&layout=compact&theme=transparent">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eesh23&show_icons=true&theme=transparent&commits_year=2026">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eesh23&layout=compact&theme=transparent&commits_year=2026">
 </div>
