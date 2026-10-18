@@ -39,6 +39,9 @@ Thanks for checking out my github profile! I'm a student  studying computer scie
 ---
 
 <div>
+  <!-- "Contributed to" row hidden via &hide=contribs. To show it again, use this line instead:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eesh23&show_icons=true&theme=transparent&commits_year=2026">
+  -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eesh23&show_icons=true&theme=transparent&commits_year=2026&hide=contribs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eesh23&layout=compact&theme=transparent">
 </div>
